@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "dotenv": "^17.2.3",
-    "prisma": "^6.19.0"
-  }
-}
